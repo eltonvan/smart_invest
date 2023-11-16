@@ -1,6 +1,4 @@
-<<<<<<< HEAD
-# Smart_Investment_ethan_test1
-=======
+
 # Smart_Investment_ethan
 
 1. clone repository
@@ -115,6 +113,5 @@ git push upstream <branch_name>
 - it's often good to fetch and merge changes from the "upstream" repository so that your fork stays up-to-date.
 
 
->>>>>>> upstream/main
 
 
